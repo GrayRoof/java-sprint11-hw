@@ -1,2 +1,2 @@
 # java-sprint11-hw
-![Диаграмма для Filmorate](https://myoctocat.com/assets/images/base-octocat.svg)
+![Диаграмма для Filmorate](QuickDBD-export.svg)
