@@ -1,2 +1,4 @@
 smth 1
 smth 2
+smth b_2
+smth b_2 2
